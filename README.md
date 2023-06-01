@@ -7,3 +7,5 @@ Folder structure and description for Projects
   - Description: simple project to extract table from a website.
 - twitter_bot
   - Description: Proof of Concept(POC) for Twitter Bot
+- weather_api
+  - Description: Proof of Concept(POC) to work with Weather API

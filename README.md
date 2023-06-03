@@ -9,3 +9,7 @@ Folder structure and description for Projects
   - Description: Proof of Concept(POC) for Twitter Bot
 - weather_api
   - Description: Proof of Concept(POC) to work with Weather API
+- sqlite_example
+  - Description: Practive with work with sqlite
+
+sqlite_example
